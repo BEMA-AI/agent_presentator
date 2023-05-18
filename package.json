@@ -1,0 +1,13 @@
+{
+    "name": "bema-pitch-maker",
+    "version": "1.0.0",
+    "description": "AI-powered business pitch maker using BEMA employees, Marp and GitHub Pages",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "express": "^4.17.1",
+        "simple-git": "^2.46.0"
+    }
+}
